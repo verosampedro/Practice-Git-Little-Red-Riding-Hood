@@ -23,3 +23,22 @@ padding: 20px;
     margin: 0 auto;
     padding: 20px;
 }
+
+.lobo_abuelita { align-items: center;
+    display: block;
+    text-align: center;
+    font-family: georgia;
+}
+    
+.lobo_abuelita img {
+    width: 500px;
+    height: 500px;
+}
+
+#capítulo2 { text-align: center;
+    background-color: burlywood;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;}
+    
