@@ -4,5 +4,15 @@ text-align: center;
 font-family: georgia;
 }
 
-body { background-color: antiquewhite;}
+body { background-color:bisque}
 
+h2 { font-family: georgia;
+    padding: 10px;
+}
+
+#introducción { text-align: center;
+background-color:burlywood;
+width: 80%;
+margin: 0 auto;
+padding: 20px;
+}
