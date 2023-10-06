@@ -19,14 +19,14 @@ h2 { font-family: georgia;
     padding: 10px;
 }
 
-#introducción { text-align: center;
+#capítulo1 { text-align: center;
 background-color:burlywood;
 width: 80%;
 margin: 0 auto;
 padding: 20px;
 }
 
-#capítulo1 { text-align: center;
+#capítulo2 { text-align: center;
     background-color: burlywood;
     width: 80%;
     margin: 0 auto;
@@ -44,7 +44,7 @@ padding: 20px;
     height: 500px;
 }
 
-#capítulo2 { text-align: center;
+#capítulo3 { text-align: center;
     background-color: burlywood;
     width: 80%;
     margin: 0 auto;
@@ -59,7 +59,7 @@ padding: 20px;
         margin-top: 20px;
     }
     
-    #final { text-align: center;
+    #capítulo5 { text-align: center;
         background-color: burlywood;
         width: 80%;
         margin: 0 auto;
