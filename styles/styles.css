@@ -2,6 +2,15 @@
 display: block;
 text-align: center;
 font-family: georgia;
+padding: 10px;
+}
+
+.encabezado h1 { padding: 30px;
+    background-color:rgb(226, 119, 119);
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 body { background-color:bisque}
